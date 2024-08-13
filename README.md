@@ -1,6 +1,6 @@
 # About Me
 
-I'm a 20-year-old junior at the University of Florida with a strong focus on computer graphics. I began teaching myself visual effects at 14 using After Effects and Blender, which eventually led to founding [Effxcts LLC](https://www.effxcts.com)— a sports VFX company with 50M+ views and clients including ESPN, NHL, Red Bull, and more.
+I'm a 20-year-old junior at the University of Florida with a strong focus in computer graphics. I began teaching myself visual effects at 14 using After Effects and Blender, which eventually led to founding <a href="https://www.effxcts.com" target="_blank">Effxcts LLC</a> | <a — a sports VFX company with 50M+ views and clients including ESPN, NHL, Red Bull, and more.
 
 In college, my interests expanded to coding, image processing, computer vision, and all the visual aspects of technology. This past summer, I interned as a Machine Learning Software Engineer at the Children's Hospital of Philadelphia, where I applied image processing and machine learning to predict surgical needs from renogram imaging.
 
