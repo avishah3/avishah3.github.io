@@ -44,7 +44,7 @@ I created an algorithm that adjusts 2D layers based on real-time eye tracking da
 
 <a href="https://github.com/avishah3/3D-Screen-Illusion-Using-Webcam" target="_blank">Github Project</a>
 <div style="display: flex; justify-content: space-between;">
-  <img src="/assets/3D.png" alt="" style="width: 48%;"/>
+  <img src="/assets/3D1.png" alt="" style="width: 48%;"/>
   <img src="/assets/3D2.png" alt="" style="width: 48%;"/>
 </div>
 <br>
