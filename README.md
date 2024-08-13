@@ -13,14 +13,14 @@ Creating a program automates creating a video like (this) utilizing pose estimat
 
 ## Past Projects
 ### Renogram Analysis & Surgical Decision-Making with Deep Learning
-During my internship at the Children's Hospital of Philadelphia, I led the development of an image processing pipeline in Python, designed to extract quantitative data from over 300 renogram images. This data, including 34 extracted features and 121 points of normalized time-series data, was used to train predictive models, such as logistic regression, random forest, and a convolutional neural network with long short term memory, all aimed at improving surgical decision-making for kidney hydronephrosis. These models were validated using a custom 5-fold cross-validation strategy, ensuring unbiased evaluation, and combined into an ensemble model that achieved an impressive AUROC of 0.90. To enhance clinical utility, I developed two interactive web tools using REST APIs: one enabling clinicians to upload renogram images for automated analysis and another allowing users to draw renogram curves for model interpretability. 
+During my internship at the Children's Hospital of Philadelphia, I led the development of an image processing pipeline in Python, designed to extract quantitative data from over 300 renogram images. This data, including 34 extracted features and 121 points of normalized time-series data, was used to train predictive models, such as logistic regression, random forest, and a convolutional neural network with long short term memory, all aimed at improving surgical decision-making for kidney hydronephrosis. These models were validated using a custom 5-fold cross-validation strategy, ensuring unbiased evaluation, and combined into an ensemble model that achieved an impressive AUROC of 0.90. To enhance clinical utility, I developed two interactive web tools using REST APIs: one enabling clinicians to upload renogram images for automated analysis and another allowing users to draw renogram curves for model interpretability (see here). 
 
 
 ### Basketball shot tracker using ML & computer vision
-You should complete
+I engineered a real-time basketball shot tracker using YOLOv8, with enhanced training and inference speeds by over 20x through CUDA optimization. The project achieved 95% score detection accuracy and 97% shot attempt accuracy.
 
 ### 3D Illusion
-You should complete
+I created an algorithm that adjusts 2D layers based on real-time eye tracking data to simulate 3D depth on a 2D screen. This project combined computer vision with real-time interaction, using OpenCV for facial tracking and CUDA for seamless performance at 60 fps.
 
 ### NBA Blender 3D Data Visualization
-You should complete (this is the nba api project i talked about before)
+I developed a Python GUI that visualizes NBA player shooting heat maps by extracting and parsing data from the NBA API. The data was then processed in Blender, where I scripted over 500 3D models to follow physics-based shooting arcs. This project explored the intersection of sports data and 3D visualization, resulting in a viral data visualization with over 4 million views.
