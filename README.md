@@ -12,7 +12,7 @@ Outside of this, I enjoy basketball, flag football, and skiing.
 3D Reconstruction, Diffusion Models, Pose Estimation, Building VFX Tools.
 
 ### Pose Estimaton for Automatic Video Creation
-Creating a program automates creating a video like <a href="https://x.com/ari_fararooy/status/1604536193227427841" target="_blank">this</a> utilizing web scraping, pose estimation, computer vision, and image segmentation.
+Creating a program automates creating a video like <a href="https://x.com/ari_fararooy/status/1604536193227427841" target="_blank">this</a>, utilizing web scraping, pose estimation, computer vision, and image segmentation.
 
 ### 4D Gaussian Splatting
 Developing programs to convert videos into animated 3D visualizations using Gaussian splatting. The ambitious goal is to transform sports footage into near real-time temporal Gaussian splats, enabling viewers to watch the game from any angle imaginable.
