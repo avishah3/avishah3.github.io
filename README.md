@@ -21,9 +21,13 @@ During my CHOP internship, I developed a Python pipeline to extract quantitative
 
 ### Basketball Shot Tracker - ML & Computer Vision
 
+I developed a real-time basketball shot tracker by training a YOLOv8 deep learning model and implementing data-cleaning algorithms. The project achieved 95% score detection accuracy and 97% shot attempt accuracy.
+
 <a href="https://github.com/avishah3/AI-Basketball-Shot-Detection-Tracker" target="_blank">Github Project</a>
 
-I developed a real-time basketball shot tracker by training a YOLOv8 deep learning model and implementing data-cleaning algorithms. The project achieved 95% score detection accuracy and 97% shot attempt accuracy.
+<video width="100%" controls>
+  <source src="/assets/video1.mp4" type="video/mp4">
+</video>
 
 ### 3D Depth Screen Illusion - Computer Vision
 <a href="https://github.com/avishah3/3D-Screen-Illusion-Using-Webcam" target="_blank">Github Project</a>
