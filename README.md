@@ -14,7 +14,7 @@ Outside of this, I enjoy basketball, flag football, and skiing.
 3D Reconstruction, Diffusion Models, Gaussian Splatting, Pose Estimation
 
 ### Pose Estimaton for Automatic Video Creation
-Creating a program automates creating a video like <a href="https://x.com/ari_fararooy/status/1604536193227427841" target="_blank">this</a>, utilizing web scraping, pose estimation, computer vision, and image segmentation.
+Building a program that automatically selects a <a href="https://x.com/ari_fararooy/status/1604536193227427841" target="_blank">series of photos to create a video</a>, utilizing web scraping, pose estimation, computer vision, and image segmentation.
 
 <br>
 
