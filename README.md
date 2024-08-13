@@ -23,21 +23,24 @@ During my CHOP internship, I developed a Python pipeline to extract quantitative
   <img src="/assets/renogram_image_process.png" alt="Image Processing" style="width: 48%;"/>
   <img src="/assets/renogram_flowchart.png" alt="Flowchart" style="width: 48%;"/>
 </div>
-<br><br>
+<br>
 
 ### Basketball Shot Tracker - ML & Computer Vision
 I developed a real-time basketball shot tracker by training a YOLOv8 deep learning model and implementing data-cleaning algorithms. The project achieved 95% score detection accuracy and 97% shot attempt accuracy.
 
 <a href="https://github.com/avishah3/AI-Basketball-Shot-Detection-Tracker" target="_blank">Github Project</a>
-https://github.com/user-attachments/assets/9335c444-6744-4cc2-b0bf-db6d40c78e2c
+<video width="100%" controls>
+  <source src="assets/video1.mp4" type="video/mp4">
+</video>
 
 
 ### 3D Depth Screen Illusion - Computer Vision
 I created an algorithm that adjusts 2D layers based on real-time eye tracking data to simulate 3D depth on a 2D screen.
 
 <a href="https://github.com/avishah3/3D-Screen-Illusion-Using-Webcam" target="_blank">Github Project</a>
-https://github.com/user-attachments/assets/91abffa6-9591-434d-86b3-0ee8ba5359d6
-
+<video width="100%" controls>
+  <source src="assets/video2.mp4" type="video/mp4">
+</video>
 
 
 ### NBA Blender 3D Data Visualization
