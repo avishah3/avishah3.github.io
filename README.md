@@ -8,12 +8,15 @@ Currently, I’m working on publishing those results, researching at the <a href
 
 Outside of this, I enjoy basketball, flag football, and skiing.
 
+<br>
+
 ## Current Interests & Projects
 3D Reconstruction, Diffusion Models, Gaussian Splatting, Pose Estimation
 
 ### Pose Estimaton for Automatic Video Creation
 Creating a program automates creating a video like <a href="https://x.com/ari_fararooy/status/1604536193227427841" target="_blank">this</a>, utilizing web scraping, pose estimation, computer vision, and image segmentation.
 
+<br>
 
 ## Past Projects
 ### Renogram Analysis - Deep Learning and Image Processing
