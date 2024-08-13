@@ -1,14 +1,16 @@
 # About Me
 
-I'm a 20-year-old junior at the University of Florida with a strong focus on computer graphics. I started at 14 by teaching myself visual effects using Adobe After Effects and Blender, which eventually led to founding Effxcts LLC—a sports VFX company that’s worked with clients like ESPN, Bleacher Report, Red Bull, and the Dallas Mavericks.
+I'm a 20-year-old junior at the University of Florida with a strong focus on computer graphics. I started at 14 by teaching myself visual effects using After Effects and Blender, which eventually led to founding Effxcts LLC— a sports VFX company that’s worked with ESPN, Bleacher Report, Red Bull, the Dallas Mavericks, and more.
 
-In college, my interests expanded to coding, image processing, and computer vision, all of which have deepened my appreciation for the visual aspects of technology. This past summer, I interned as a Machine Learning Software Engineer at the Children's Hospital of Philadelphia, applying image processing and machine learning techniques to predict surgical needs from renogram imaging.
+In college, my interests expanded to coding, image processing, computer vision, and all the visual aspects of technology. This past summer, I interned as a Machine Learning Software Engineer at the Children's Hospital of Philadelphia, applying image processing and machine learning techniques to predict surgical needs from renogram imaging.
 
 Currently, I’m working on publishing those results, exploring new projects in computer graphics, and seeking a summer 2025 internship to continue advancing in this field.
 
 Outside of computer graphics, I enjoy basketball, flag-football, skiing, and ___.
 
 ## Current Interests & Projects
+Current interests: 3D Reconstruction, Generative Diffusion Models, Pose Estimation, Tools for VFX artists.
+
 ### 4D Gaussian splatting
 Building a pipeline to turn videos into animated 3D visualizations using Gaussian splatting, with a focus on sports applications. Inspired by the Olympics 2024 'bullet time' 3D static replay.
 
