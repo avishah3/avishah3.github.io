@@ -1,6 +1,6 @@
 # About Me
 
-I'm a 20-year-old junior at the University of Florida with a strong focus on computer graphics. I started at 14 by teaching myself visual effects using After Effects and Blender, which eventually led to founding Effxcts LLC— a sports VFX company that’s worked with ESPN, Bleacher Report, Red Bull, the Dallas Mavericks, and more.
+I'm a 20-year-old junior at the University of Florida with a strong focus in computer graphics. I started at 14 by teaching myself visual effects using After Effects and Blender, which eventually led to founding Effxcts LLC— a sports VFX company that’s worked with ESPN, Bleacher Report, Red Bull, the Dallas Mavericks, and more.
 
 In college, my interests expanded to coding, image processing, computer vision, and all the visual aspects of technology. This past summer, I interned as a Machine Learning Software Engineer at the Children's Hospital of Philadelphia, applying image processing and machine learning techniques to predict surgical needs from renogram imaging.
 
