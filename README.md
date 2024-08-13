@@ -9,13 +9,10 @@ Currently, I’m working on publishing those results, exploring new projects in 
 Outside of this, I enjoy basketball, flag football, and skiing.
 
 ## Current Interests & Projects
-3D Reconstruction, Diffusion Models, Pose Estimation, Building VFX Tools.
+3D Reconstruction, Diffusion Models, Gaussian Splatting, Pose Estimation
 
 ### Pose Estimaton for Automatic Video Creation
 Creating a program automates creating a video like <a href="https://x.com/ari_fararooy/status/1604536193227427841" target="_blank">this</a>, utilizing web scraping, pose estimation, computer vision, and image segmentation.
-
-### 4D Gaussian Splatting
-The ambitious goal is to transform sports footage into near real-time temporal Gaussian splats, enabling viewers to watch the game from any angle imaginable.
 
 ## Past Projects
 ### Renogram Analysis - Deep Learning and Image Processing
