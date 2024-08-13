@@ -6,7 +6,7 @@ In college, my interests expanded to coding, image processing, computer vision, 
 
 Currently, I’m working on publishing those results, exploring new projects in computer graphics, and seeking a summer 2025 internship to continue contributing to this field.
 
-Outside of computer graphics, I enjoy basketball, flag-football, skiing, and ___.
+Outside of this, I enjoy basketball, flag-football, and skiing.
 
 ## Current Interests & Projects
 Current interests: 3D Reconstruction, Generative Diffusion Models, Pose Estimation, Tools for VFX artists.
