@@ -1,6 +1,10 @@
 # About Me
 
-I’m a 20-year-old junior at the University of Florida who loves computer graphics. At 14 I began self-learning visual effects with Adobe After Effects and Blender, which led to founding Effxcts LLC— a sports VFX company that has worked with clients like ESPN, Bleacher Report, Red Bull, and the Dallas Mavericks. In college, I quickly developed a deep interest in coding, image processing, computer vision, and really all the visual aspects of computer science. This past summer, I interned as a machine learning software engineer at the Children's Hospital of Philadelphia, applying image processing and ML to predict surgical necessity from renal scans. I’m currently working on publishing these results, exploring new interests in the world of computer graphics, and am seeking a summer 2025 internship.
+I'm a 20-year-old junior at the University of Florida with a strong focus on computer graphics. I started at 14 by teaching myself visual effects using Adobe After Effects and Blender, which eventually led to founding Effxcts LLC—a sports VFX company that’s worked with clients like ESPN, Bleacher Report, Red Bull, and the Dallas Mavericks.
+
+In college, my interests expanded to coding, image processing, and computer vision, all of which have deepened my appreciation for the visual aspects of technology. This past summer, I interned as a Machine Learning Software Engineer at the Children's Hospital of Philadelphia, applying image processing and machine learning techniques to predict surgical needs from renogram imaging.
+
+Currently, I’m working on publishing those results, exploring new projects in computer graphics, and seeking a summer 2025 internship to continue advancing in this field.
 
 Outside of computer graphics, I enjoy basketball, flag-football, skiing, and ___.
 
