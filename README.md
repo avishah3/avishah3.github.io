@@ -21,7 +21,7 @@ During my CHOP internship, I developed a Python pipeline to extract quantitative
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/assets/renogram_image_process.png" alt="Image Processing" style="width: 48%;"/>
-  <img src="/assets/renogram_flowchart.png)" alt="Flowchart" style="width: 48%;"/>
+  <img src="/assets/renogram_flowchart.png" alt="Flowchart" style="width: 48%;"/>
 </div>
 
 
