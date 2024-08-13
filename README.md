@@ -24,12 +24,15 @@ During my internship at the Children's Hospital of Philadelphia, I developed an 
 
 ### Basketball Shot Tracker Using ML & Computer Vision
 [Github Project](https://github.com/avishah3/AI-Basketball-Shot-Detection-Tracker)
+
 I engineered a real-time basketball shot tracker using YOLOv8, with enhanced training and inference speeds by over 20x through CUDA optimization. The project achieved 95% score detection accuracy and 97% shot attempt accuracy.
 
 ### 3D Depth Illusion
 [Github Project](https://github.com/avishah3/3D-Screen-Illusion-Using-Webcam)
+
 I created an algorithm that adjusts 2D layers based on real-time eye tracking data to simulate 3D depth on a 2D screen. This project combined computer vision with real-time interaction, using OpenCV for facial tracking and CUDA for seamless performance at 60 fps.
 
 ### NBA Blender 3D Data Visualization
 [Github Project](https://github.com/avishah3/DSA-final-project)
+
 I developed a Python GUI that visualizes NBA player shooting heat maps by extracting and parsing data from the NBA API. The data was then processed in Blender, where I scripted over 500 3D models to follow physics-based shooting arcs. This project explored the intersection of sports data and 3D visualization, resulting in a viral data visualization with over 4 million views on TikTok and Instagram.
