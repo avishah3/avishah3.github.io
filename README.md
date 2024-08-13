@@ -19,7 +19,7 @@ Creating a program automates creating a video like (this) utilizing pose estimat
 
 ## Past Projects
 ### Renogram Analysis & Surgical Decision-Making with Deep Learning
-During my internship at the Children's Hospital of Philadelphia, I developed an image processing pipeline in Python to extract quantitative data from over 300 renogram images. This data, including 34 extracted features and 121 normalized time-series points, was used to train predictive models such as logistic regression, random forest, and a convolutional neural network with long short-term memory (CNN-LSTM), all aimed at improving surgical decisions for kidney hydronephrosis. Validated with a custom 5-fold cross-validation, these models were combined into an ensemble that achieved an AUROC of 0.90. To enhance clinical utility, I also developed two interactive web tools using REST APIs: one for automated renogram analysis and another for drawing renogram curves to aid in model interpretability (see here).
+During my internship at the Children's Hospital of Philadelphia, I developed an image processing pipeline in Python to extract quantitative data from over 300 renogram images. This data, including 34 extracted features and 121 normalized time-series points, was used to train predictive models such as logistic regression, random forest, and a convolutional neural network with long short-term memory (CNN-LSTM), all validated with 5-fold cross-validation. To enhance clinical utility, I also developed two interactive web tools using REST APIs: one for automated renogram analysis and another for drawing renogram curves to aid in model interpretability (see here).
 
 
 ### Basketball shot tracker using ML & computer vision
