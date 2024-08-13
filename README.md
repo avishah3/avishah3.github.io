@@ -4,7 +4,7 @@ I'm a 20-year-old junior at the University of Florida with a strong focus in com
 
 In college, my interests expanded to coding, image processing, computer vision, and all the visual aspects of technology. This past summer, I interned as a Machine Learning Software Engineer at the Children's Hospital of Philadelphia (CHOP), where I applied image processing and machine learning to predict surgical needs from renogram imaging.
 
-Currently, I’m working on publishing those results, researching at the <a href="[https://x.com/ari_fararooy/status/1604536193227427841](https://www.cise.ufl.edu/~eragan/indie.html)" target="_blank">Indie Lab</a>, exploring new projects in computer graphics, and seeking a summer 2025 internship to continue contributing to this field.
+Currently, I’m working on publishing those results, researching at the <a href="https://www.cise.ufl.edu/~eragan/indie.html" target="_blank">Indie Lab</a>, exploring new projects in computer graphics, and seeking a summer 2025 internship to continue contributing to this field.
 
 Outside of this, I enjoy basketball, flag football, and skiing.
 
