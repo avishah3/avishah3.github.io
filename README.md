@@ -15,10 +15,10 @@ Outside of this, I enjoy basketball, flag football, and skiing.
 Creating a program automates creating a video like <a href="https://x.com/ari_fararooy/status/1604536193227427841" target="_blank">this</a>, utilizing web scraping, pose estimation, computer vision, and image segmentation.
 
 ### 4D Gaussian Splatting
-Developing programs to convert videos into animated 3D visualizations using Gaussian splatting. The ambitious goal is to transform sports footage into near real-time temporal Gaussian splats, enabling viewers to watch the game from any angle imaginable.
+The ambitious goal is to transform sports footage into near real-time temporal Gaussian splats, enabling viewers to watch the game from any angle imaginable.
 
 ## Past Projects
-### Renogram Analysis with Deep Learning and Image Processing
+### Renogram Analysis - Deep Learning and Image Processing
 During my internship at the Children's Hospital of Philadelphia, I developed an image processing pipeline in Python to extract quantitative data from over 300 renogram images. This data, including 34 extracted features and 121 normalized time-series points, was used to train models that predict surgical necessity using a logistic regression, random forest, and a convolutional neural network with long short-term memory (CNN-LSTM), all validated with 5-fold cross-validation. To enhance clinical utility, I also developed two interactive web tools using REST APIs: one for automated renogram analysis and another for drawing renogram curves to aid in model interpretability <a href="https://renogram-drawing.onrender.com/" target="_blank">here</a>.
 
 
@@ -27,7 +27,7 @@ During my internship at the Children's Hospital of Philadelphia, I developed an 
 
 I engineered a real-time basketball shot tracker using YOLOv8, with enhanced training and inference speeds by over 20x through CUDA optimization. The project achieved 95% score detection accuracy and 97% shot attempt accuracy.
 
-### 3D Depth Illusion
+### 3D Depth Screen Illusion
 [Github Project](https://github.com/avishah3/3D-Screen-Illusion-Using-Webcam)
 
 I created an algorithm that adjusts 2D layers based on real-time eye tracking data to simulate 3D depth on a 2D screen. This project combined computer vision with real-time interaction, using OpenCV for facial tracking and CUDA for seamless performance at 60 fps.
