@@ -17,7 +17,7 @@ Creating a program automates creating a video like <a href="https://x.com/ari_fa
 
 ## Past Projects
 ### Renogram Analysis - Deep Learning and Image Processing
-During my internship at CHOP, I developed an image processing pipeline in Python to extract quantitative data from over 300 renogram images. To predict surgical necessity, I trained three models including a convolutional neural network with long short-term memory (CNN-LSTM), all validated with 5-fold cross-validation. For clinical utility, I also developed two interactive web tools using REST APIs: one for automated renogram analysis and another for drawing renogram curves to aid in model interpretability <a href="https://renogram-drawing.onrender.com/" target="_blank">here</a>.
+During my CHOP internship, I developed a Python pipeline to extract quantitative data from over 300 renogram images. I trained and validated models, including a neural network (CNN-LSTM), to predict surgical necessity. To support clinical use, I created two web tools with REST APIs: one for automated renogram analysis and another for drawing renogram curves for model interpretability <a href="https://renogram-drawing.onrender.com/" target="_blank">here</a>.
 
 ### Basketball Shot Tracker - ML & Computer Vision
 
