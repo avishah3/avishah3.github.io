@@ -23,8 +23,8 @@ Creating a program automates creating a video like <a href="https://x.com/ari_fa
 During my CHOP internship, I developed a Python pipeline to extract quantitative data from over 300 renogram images. I trained and validated models, including a neural network (CNN-LSTM), to predict surgical necessity. To support clinical use, I created two web tools with REST APIs: one for automated renogram analysis and another for drawing renogram curves for model interpretability.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/assets/renogram_image_process.png" alt="Image Processing" style="width: 48%;"/>
-  <img src="/assets/renogram.png" alt="Flowchart" style="width: 48%;"/>
+  <img src="/assets/renogram_image_process.png" alt="" style="width: 48%;"/>
+  <img src="/assets/renogram2.png" alt="" style="width: 48%;"/>
 </div>
 <br>
 
