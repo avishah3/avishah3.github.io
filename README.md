@@ -10,7 +10,7 @@ Outside of this, I enjoy basketball, flag football, and skiing.
 
 <br>
 
-## Current Interests & Projects
+## Current Interests
 3D Reconstruction, Diffusion Models, Gaussian Splatting, Pose Estimation
 
 ### Pose Estimaton for Automatic Video Creation
