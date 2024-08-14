@@ -1,15 +1,15 @@
 title: Avi Shah
 logo: /assets/logo.png
 description: >
-  <a href="mailto:avishah3@gmail.com" target="_blank" style="font-weight: bold; color: inherit;">Email (avishah3@gmail.com)</a>
+  <a href="mailto:avishah3@gmail.com" target="_blank">Email: avishah3@gmail.com</a>
   <br>
-  <a href="/assets/Resume.pdf" target="_blank" style="font-weight: bold; color: inherit;">Resume</a>
+  <a href="/assets/Resume.pdf" target="_blank">Resume</a>
   <br>
-  <a href="https://www.linkedin.com/in/-avishah/" target="_blank" style="font-weight: bold; color: inherit;">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/-avishah/" target="_blank">LinkedIn</a>
   <br>
-  <a href="https://github.com/avishah3" target="_blank" style="font-weight: bold; color: inherit;">GitHub</a>
+  <a href="https://github.com/avishah3" target="_blank">GitHub</a>
   <br>
-  <a href="https://www.effxcts.com/" target="_blank" style="font-weight: bold; color: inherit;">Effxcts LLC</a>
+  <a href="https://www.effxcts.com/" target="_blank">Effxcts LLC</a>
 show_downloads: false
 theme: jekyll-theme-minimal
 github:
