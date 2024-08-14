@@ -1,15 +1,31 @@
 title: Avi Shah
 logo: /assets/logo.png
-description: >
-  <a href="/assets/Resume.pdf" target="_blank">View My Resume</a>
-  <br>
-  <a href="mailto:avishah3@gmail.com">Email: avishah3@gmail.com</a>
-  <br>
-  <a href="https://www.linkedin.com/in/-avishah/">LinkedIn</a>
-  <br>
-  <a href="https://github.com/avishah3">GitHub</a>
-  <br>
-  <a href="https://www.effxcts.com/">www.effxcts.com</a>
+description:
+  <style>
+    .contact-links a {
+      display: inline-block;
+      margin: 5px 0;
+      padding: 10px 15px;
+      background-color: #007bff;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+      text-align: center;
+    }
+  
+    .contact-links a:hover {
+      background-color: #0056b3;
+    }
+  </style>
+  
+  <div class="contact-links">
+    <a href="/assets/Resume.pdf" target="_blank">View My Resume</a>
+    <a href="mailto:avishah3@gmail.com">Email: avishah3@gmail.com</a>
+    <a href="https://www.linkedin.com/in/-avishah/">LinkedIn</a>
+    <a href="https://github.com/avishah3">GitHub</a>
+    <a href="https://www.effxcts.com/">www.effxcts.com</a>
+  </div>
+
 show_downloads: false
 theme: jekyll-theme-minimal
 github:
