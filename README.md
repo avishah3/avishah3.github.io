@@ -19,14 +19,8 @@ Building a program that automatically selects and edits a <a href="https://x.com
 <br>
 
 ## Past Projects
-### Renogram Analysis - Deep Learning and Image Processing
-During my CHOP internship, I developed a pipeline to extract quantitative data from over 300 renogram images. I trained and validated models, including a neural network (CNN-LSTM), to predict surgical necessity for kidney hydronephrosis patients. To support clinical use, I created two web tools with REST APIs: one for automated renogram analysis and another for drawing renogram curves for model interpretability.
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="/assets/renogram_image_process.png" alt="" style="width: 48%;"/>
-  <img src="/assets/renogram2.png" alt="" style="width: 48%;"/>
-</div>
-<br>
+### Kidney Hydronephrosis - Deep Learning and Image Processing
+During my CHOP internship, I developed an image processing pipeline to extract quantitative data from hundreds of kidney scans. I trained and validated machine learning models, including a convolutional neural network, to predict surgical necessity for kidney hydronephrosis patients. To facilitate clinical use, I created two web-based tools using REST APIs. Manuscript is now being prepared for submission, further details available upon request.
 
 ### Basketball Shot Tracker - ML & Computer Vision
 I developed a real-time basketball shot tracker by training a YOLOv8 deep learning model and implementing data-cleaning algorithms. The project achieved 95% score detection accuracy and 97% shot attempt accuracy.
