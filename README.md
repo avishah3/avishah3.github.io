@@ -31,7 +31,7 @@ During my CHOP internship, I developed a pipeline to extract quantitative data f
 ### Basketball Shot Tracker - ML & Computer Vision
 I developed a real-time basketball shot tracker by training a YOLOv8 deep learning model and implementing data-cleaning algorithms. The project achieved 95% score detection accuracy and 97% shot attempt accuracy.
 
-<a href="https://github.com/avishah3/AI-Basketball-Shot-Detection-Tracker" target="_blank">Github Project</a>
+<a href="https://github.com/avishah3/AI-Basketball-Shot-Detection-Tracker" target="_blank">GitHub Project</a>
 <div style="display: flex; justify-content: space-between;">
   <img src="/assets/basketball1.png" alt="" style="width: 48%;"/>
   <img src="/assets/basketball2.png" alt="" style="width: 48%;"/>
@@ -42,7 +42,7 @@ I developed a real-time basketball shot tracker by training a YOLOv8 deep learni
 ### 3D Depth Screen Illusion - Computer Vision
 I created an algorithm that adjusts 2D layers based on real-time eye tracking data to simulate 3D depth on a 2D screen.
 
-<a href="https://github.com/avishah3/3D-Screen-Illusion-Using-Webcam" target="_blank">Github Project</a>
+<a href="https://github.com/avishah3/3D-Screen-Illusion-Using-Webcam" target="_blank">GitHub Project</a>
 <div style="display: flex; justify-content: space-between;">
   <img src="/assets/3D1.png" alt="" style="width: 48%;"/>
   <img src="/assets/3D2.png" alt="" style="width: 48%;"/>
@@ -53,7 +53,7 @@ I created an algorithm that adjusts 2D layers based on real-time eye tracking da
 ### NBA Blender 3D Data Visualization
 I developed a GUI to visualize NBA player shooting heat maps using data from the NBA API. I then extended this into a 3D visualization, scripting 500 models to follow physics-based shooting arcs in Blender. This project reached over 4 million views on TikTok and Instagram.
 
-<a href="https://github.com/avishah3/DSA-final-project" target="_blank">Github Project</a>
+<a href="https://github.com/avishah3/DSA-final-project" target="_blank">GitHub Project</a>
 <br>
 <a href="https://www.instagram.com/effxcts/reel/C1a-GdfgVMk/" target="_blank">Video Link</a>
 
