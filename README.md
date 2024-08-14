@@ -7,7 +7,6 @@ In college, my interests expanded to coding, image processing, computer vision, 
 Currently, I’m working on publishing those results, researching at the <a href="https://www.cise.ufl.edu/~eragan/indie.html" target="_blank">Indie Lab</a>, exploring new projects in computer graphics, and seeking a summer 2025 internship to continue contributing to this field.
 
 Outside of this, I enjoy basketball, flag football, and skiing.
-
 <br>
 
 ## Current Interests
@@ -15,7 +14,6 @@ Outside of this, I enjoy basketball, flag football, and skiing.
 
 ### Pose Estimaton for Automatic Video Creation
 Building a program that automatically selects and edits a <a href="https://x.com/ari_fararooy/status/1604536193227427841" target="_blank">series of photos into a video</a>, utilizing web scraping, pose estimation, computer vision, image segmentation, and possibly diffusion models for impainting.
-
 <br>
 
 ## Past Projects
