@@ -3,9 +3,12 @@ logo: /assets/logo.png
 description: >
   <a href="/assets/Resume.pdf" target="_blank">View My Resume</a>
   <br>
-  <a href="mailto:avishah3@gmail.com">Email: avishah3@gmail.com</a> | 
-  <a href="https://www.linkedin.com/in/-avishah/">LinkedIn</a> | 
-  <a href="https://github.com/avishah3">GitHub</a> | 
+  <a href="mailto:avishah3@gmail.com">Email: avishah3@gmail.com</a>
+  <br>
+  <a href="https://www.linkedin.com/in/-avishah/">LinkedIn</a>
+  <br>
+  <a href="https://github.com/avishah3">GitHub</a>
+  <br>
   <a href="https://www.effxcts.com/">www.effxcts.com</a>
 show_downloads: false
 theme: jekyll-theme-minimal
