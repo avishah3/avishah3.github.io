@@ -21,7 +21,6 @@ Building a program that automatically selects and edits a <a href="https://x.com
 ## Past Projects
 ### Deep Learning and Image Processing in Medicine
 During my CHOP internship, I developed an image processing pipeline to extract quantitative data from hundreds of kidney scans. I trained and validated machine learning models, including a convolutional neural network with long short-term memory (CNN-LSTM), to predict surgical necessity in affected patients. To facilitate clinical use, I created two web-based tools using REST APIs. Manuscript is now being prepared for submission, further details available upon request.
-
 <img src="assets/chop_logo.png" alt="CHOP Logo" style="max-width: 100%; height: auto;">
 <br>
 
