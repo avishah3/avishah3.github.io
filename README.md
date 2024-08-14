@@ -2,7 +2,7 @@
 
 I'm a third year undergraduate student at the University of Florida with a strong focus in computer graphics. I began teaching myself visual effects at 14 using After Effects and Blender, which eventually led to founding <a href="https://www.effxcts.com" target="_blank">Effxcts LLC</a>— a sports VFX company with 50M+ views and clients including ESPN, NHL, Red Bull, the Dallas Mavericks, and more.
 
-In college, my interests expanded to coding, image processing, computer vision, and the broader field of visual computing.. This past summer, I interned as a Machine Learning Software Engineer at the <a href="https://www.chop.edu/" target="_blank">Children's Hospital of Philadelphia</a> (CHOP), where I applied machine learning and image processing to predict surgical necessity from kidney scans.
+In college, my interests expanded to coding, image processing, computer vision, and the broader field of visual computing. This past summer, I interned as a Machine Learning Software Engineer at the <a href="https://www.chop.edu/" target="_blank">Children's Hospital of Philadelphia</a> (CHOP), where I applied machine learning and image processing to predict surgical necessity from kidney scans.
 
 Currently, I’m working on publishing those results, researching at the <a href="https://www.cise.ufl.edu/~eragan/indie.html" target="_blank">Indie Lab</a>, exploring new projects in computer graphics, and seeking a summer 2025 internship to continue contributing to this field.
 
