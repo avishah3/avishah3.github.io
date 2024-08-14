@@ -6,7 +6,7 @@ In college, my interests expanded to coding, image processing, computer vision, 
 
 Currently, I’m working on publishing those results, researching at the <a href="https://www.cise.ufl.edu/~eragan/indie.html" target="_blank">Indie Lab</a>, exploring new projects in computer graphics, and seeking a summer 2025 internship to continue contributing to this field.
 
-Outside of this, I enjoy basketball, flag football, and skiing.
+Outside of studies, I play basketball, flag football, and ski.
 <br>
 
 ## Current Interests
