@@ -14,7 +14,7 @@ Outside of this, I play basketball, flag football, and ski.
 3D Reconstruction, Diffusion Models, Gaussian Splatting, Pose Estimation
 
 ### Pose Estimaton for Automatic Video Creation
-Building a program that automatically selects and edits a <a href="https://x.com/ari_fararooy/status/1604536193227427841" target="_blank">series of photos into a video</a>, utilizing web scraping, pose estimation, computer vision, image segmentation, and possibly diffusion models for impainting.
+Building a program that automatically selects and edits a <a href="https://x.com/ari_fararooy/status/1604536193227427841" target="_blank">series of photos into a video</a>, utilizing web scraping, pose estimation, computer vision, image segmentation, and possibly diffusion models for inpainting.
 
 <br>
 
