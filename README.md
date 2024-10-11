@@ -17,7 +17,7 @@ Outside of this, I play basketball, flag football, and ski.
 Building program that takes broadcast footage of an NBA play and reconstructs the 3D scene in Blender with accurate pose animations and real-world scaling. This leverages transformer-based 3D pose estimation, SLAM, depth estimation, and homography.
 
 ### Pose Estimaton for Automatic Video Creation
-Final stages of building a program that automatically creates a player animation from a dataset of images . <a href="https://www.instagram.com/p/DA3a4cXvk6R/?igsh=MTRrZmE4cTByNmlpdA==" target="_blank">Video Using This Software Created for Bleacher Report and NHL</a>. (breakdown video coming soon)
+Final stages of building a program that automatically creates a player animation from a dataset of images . <a href="https://www.instagram.com/p/DA3a4cXvk6R/?igsh=MTRrZmE4cTByNmlpdA==" target="_blank">Video Using This Software for Bleacher Report</a>. (breakdown video coming soon)
 
 <br>
 
