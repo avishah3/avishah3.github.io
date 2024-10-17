@@ -13,7 +13,7 @@ Outside of this, I play basketball, flag football, and ski.
 ## Current Interests
 3D Reconstruction, Pose Estimation, Diffusion Models, Gaussian Splatting
 
-### 3D Reconstruction of NBA Plays
+### 4D Reconstruction of NBA Plays
 Building program that takes broadcast footage of an NBA play and reconstructs the 3D scene in Blender with accurate pose animations and real-world scaling. This leverages transformer-based 3D pose estimation, SLAM, depth estimation, and homography.
 
 ### Pose Estimaton for Automatic Video Creation
