@@ -4,26 +4,32 @@ I'm a third year undergraduate student at the University of Florida with a stron
 
 In college, my interests expanded to coding, image processing, machine learning, and the broader field of visual computing. This past summer, I interned as a Machine Learning Researcher at the <a href="https://www.chop.edu/" target="_blank">Children's Hospital of Philadelphia</a> (CHOP), where I applied machine learning and image processing to predict surgical necessity from kidney scans.
 
-Currently, I’m working on publishing those results, researching at the <a href="https://www.cise.ufl.edu/~eragan/indie.html" target="_blank">Indie Lab</a>, growing Effxcts LLC with new computer graphics projects, and seeking a summer 2025 internship to continue contributing to this field.
+Currently, I’m working on publishing those results, researching at the <a href="https://www.cise.ufl.edu/~eragan/indie.html" target="_blank">Indie Lab</a>, and growing Effxcts LLC with new computer graphics projects. I am also seeking a summer 2025 internship to continue contributing to this field.
 
 **Current Interests:** 3D Reconstruction, Pose Estimation, Diffusion Models, Gaussian Splatting
 **Hobbies:** Basketball, Flag Football, Skiing
 
 <br>
 
+
 ## Effxcts LLC
+
 Sample Work
-
-<video width="520" height="520" controls loop="" muted="" autoplay="">
-    <source src="https://github.com/avishah3/avishah3.github.io/raw/refs/heads/main/videos/Celtics%20Data%20Visualization.mp4">
-</video>
+<div style="display: flex;">
+    <div style="flex: 1; padding: 5px;">
+        Celtics Data Visualization
+        <video width="100%" controls loop="" muted="" autoplay="">
+            <source src="https://github.com/avishah3/avishah3.github.io/raw/refs/heads/main/videos/Celtics%20Data%20Visualization.mp4">
+        </video>
+    </div>
+    <div style="flex: 1; padding: 5px;">
+        Pose Animation for BR / NHL
+        <video width="100%" controls loop="" muted="" autoplay="">
+            <source src="https://github.com/avishah3/avishah3.github.io/raw/refs/heads/main/videos/BR%20NHL%20Edit.mp4">
+        </video>
+    </div>
+</div>
 <br>
-
-<video width="520" height="520" controls loop="" muted="" autoplay="">
-    <source src="https://github.com/avishah3/avishah3.github.io/raw/refs/heads/main/videos/BR%20NHL%20Edit.mp4">
-</video>
-<br>
-
 
 
 
@@ -37,7 +43,7 @@ Built a program that automatically creates an animation from a dataset of images
 
 
 ### Deep Learning and Image Processing in Medicine
-During my CHOP internship, I developed an image processing pipeline to extract quantitative data from hundreds of kidney scans. I trained and validated machine learning models, including a convolutional neural network with long short-term memory (CNN-LSTM), to predict surgical necessity in affected patients. To facilitate clinical use, I created two web-based tools using REST APIs. Manuscript is now being prepared for submission, further details available upon request.
+During my CHOP internship, I developed an image processing pipeline to extract quantitative data from hundreds of kidney scans. I trained and validated machine learning models, including a convolutional neural network with long short-term memory (CNN-LSTM), to predict surgical necessity in affected patients. To facilitate clinical use, I created two web-based tools using REST APIs. The abstract was submitted and further details are available upon request. Video coming later.
 <img src="assets/chop_logo.png" alt="CHOP Logo" style="max-width: 100%; height: auto;">
 <br>
 
