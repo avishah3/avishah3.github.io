@@ -19,7 +19,10 @@ Building program that takes broadcast footage of an NBA play and reconstructs th
 ### Pose Estimaton for Automatic Video Creation
 Built a program that automatically creates a player animation from a dataset of images and specified 3D animation. <a href="https://www.instagram.com/p/DA3a4cXvk6R/?igsh=MTRrZmE4cTByNmlpdA%3D%3D&img_index=2" target="_blank">Example video</a> I created for Bleacher Report. 
 
-https://github.com/user-attachments/assets/17239532-8301-4e60-ab58-b3e2f726f6b5
+<video width="320" height="320" controls loop="" muted="" autoplay="">
+    <source src="https://github.com/avishah3/avishah3.github.io/raw/refs/heads/main/Pose%20Estimation%20Breakdown.mp4">
+</video>
+
 
 <br>
 
