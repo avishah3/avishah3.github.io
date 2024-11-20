@@ -18,9 +18,9 @@ Currently, I’m working on publishing those results, researching at the <a href
 See more work on our <a href="https://www.effxcts.com" target="_blank"> website</a>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
     <div style="flex-basis: 45%; margin: 2.5%;">
-        Celtics Data Visualization
+        Harden Data Visualization
         <video controls loop="" muted="" autoplay="" style="width: 100%; height: auto;">
-            <source src="https://github.com/avishah3/avishah3.github.io/raw/refs/heads/main/videos/Celtics%20Data%20Visualization.mp4">
+            <source src="https://github.com/avishah3/avishah3.github.io/raw/refs/heads/main/videos/Harden.Threes.Video.mp4">
         </video>
     </div>
     <div style="flex-basis: 45%; margin: 2.5%;">
