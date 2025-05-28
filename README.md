@@ -33,6 +33,14 @@ See more work on our <a href="https://www.effxcts.com" target="_blank"> website<
 <br>
 
 ## Past Projects
+
+### 4D NBA Reconstruction from Monocular Video
+Developed a semi-automated pipeline to reconstruct NBA plays from a single video input.
+<video controls loop="" muted="" autoplay="" style="width: 100%; height: auto;">
+    <source src="https://github.com/avishah3/avishah3.github.io/raw/refs/heads/main/videos/Nba.3d.Breakdown.mp4">
+</video>
+<br>
+
 ### Pose Estimation for Automatic Video Creation
 Built a program that automatically creates an animation from a dataset of images and specified 3D pose.
 <video controls loop="" muted="" autoplay="" style="width: 100%; height: auto;">
