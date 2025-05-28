@@ -34,28 +34,28 @@ See more work on our <a href="https://www.effxcts.com" target="_blank"> website<
 
 ## Past Projects
 
-### 4D NBA Reconstruction from Monocular Video
+### 4D NBA Reconstruction from Monocular Video (2025)
 Developed a semi-automated pipeline to reconstruct NBA plays from a single video input.
 <video controls loop="" muted="" autoplay="" style="width: 100%; height: auto;">
     <source src="https://github.com/avishah3/avishah3.github.io/raw/refs/heads/main/videos/Nba.3D.Breakdown.mp4">
 </video>
 <br>
 
-### Pose Estimation for Automatic Video Creation
+### Pose Estimation for Automatic Video Creation (2024)
 Built a program that automatically creates an animation from a dataset of images and specified 3D pose.
 <video controls loop="" muted="" autoplay="" style="width: 100%; height: auto;">
     <source src="https://github.com/avishah3/avishah3.github.io/raw/refs/heads/main/videos/Pose%20Estimation%20Breakdown.mp4">
 </video>
 <br>
 
-### Deep Learning and Image Processing in Medicine
+### Deep Learning and Image Processing in Medicine (2024)
 During my CHOP internship, I developed an image processing pipeline to extract quantitative data from hundreds of kidney scans. I trained and validated machine learning models, including a convolutional neural network with long short-term memory (CNN-LSTM), to predict surgical necessity in affected patients. To facilitate clinical use, I created two web-based tools using REST APIs. **The abstract was accepted and presented at the 2025 AUA conference.**
 <video controls loop="" muted="" autoplay="" style="width: 100%; height: auto;">
     <source src="https://github.com/avishah3/avishah3.github.io/raw/refs/heads/main/videos/chop.video.mp4">
 </video>
 <br>
 
-### Basketball Shot Tracker - ML & Computer Vision
+### Basketball Shot Tracker - ML & Computer Vision (2023)
 I developed a real-time basketball shot tracker by training a YOLOv8 deep learning model and implementing data-cleaning algorithms. The project achieved 95% score detection accuracy and 97% shot attempt accuracy.
 
 <a href="https://github.com/avishah3/AI-Basketball-Shot-Detection-Tracker" target="_blank">GitHub Project</a>
@@ -65,7 +65,7 @@ I developed a real-time basketball shot tracker by training a YOLOv8 deep learni
 </video>
 <br>
 
-### 3D Depth Screen Illusion - Computer Vision
+### 3D Depth Screen Illusion - Computer Vision (2023)
 I created an algorithm that adjusts 2D layers based on real-time eye tracking data to simulate 3D depth on a 2D screen.
 
 <a href="https://github.com/avishah3/3D-Screen-Illusion-Using-Webcam" target="_blank">GitHub Project</a>
@@ -75,7 +75,7 @@ I created an algorithm that adjusts 2D layers based on real-time eye tracking da
 </video>
 <br>
 
-### NBA Blender 3D Data Visualization
+### NBA Blender 3D Data Visualization (2023)
 I developed a GUI to visualize NBA player shooting heat maps using data from the NBA API. I then extended this into a 3D visualization, scripting 500 models to follow physics-based shooting arcs in Blender. This project reached over 4 million views on TikTok and Instagram.
 
 <a href="https://github.com/avishah3/DSA-final-project" target="_blank">GitHub Project</a>
