@@ -1,12 +1,12 @@
 # About Me
 
-I'm a third year undergraduate student at the University of Florida with a strong focus in computer graphics. I began teaching myself visual effects at 14 using After Effects and Blender, which eventually led to founding <a href="https://www.effxcts.com" target="_blank">Effxcts LLC</a>— a sports technology company with 50M+ views and clients including ESPN, NHL, Red Bull, the Dallas Mavericks, and more.
+I'm a senior undergraduate student at the University of Florida with a strong focus in computer graphics. I began teaching myself visual effects at 14 using After Effects and Blender, which eventually led to founding <a href="https://www.effxcts.com" target="_blank">Effxcts LLC</a>— a sports technology company with 50M+ views and clients including ESPN, NHL, Red Bull, the Warriors, and more.
 
-In college, my interests expanded to coding, image processing, machine learning, and the broader field of visual computing. This past summer, I interned as a Machine Learning Researcher at the <a href="https://www.chop.edu/" target="_blank">Children's Hospital of Philadelphia</a> (CHOP), where I applied machine learning and image processing to predict surgical necessity from kidney scans.
+In college, my interests expanded to coding, image processing, machine learning, and the broader field of visual computing. In summer of 2024, I interned as a Machine Learning Researcher at the <a href="https://www.chop.edu/" target="_blank">Children's Hospital of Philadelphia</a> (CHOP), publishing research in machine learning and image processing to predict surgical necessity from kidney scans.
 
-Currently, I’m working on publishing those results, researching at the <a href="https://www.cise.ufl.edu/~eragan/indie.html" target="_blank">Indie Lab</a>, and growing Effxcts LLC with new computer graphics projects. I am also seeking a summer 2025 internship to continue contributing to this field.
+Currently, I am growing Effxcts LLC with new computer graphics projects and am researching at the <a href="https://www.cise.ufl.edu/~eragan/indie.html" target="_blank">Indie Lab</a>.
 
-**Current Interests:** 3D Reconstruction, Pose Estimation, Diffusion Models, Gaussian Splatting
+**Current Interests:** 4D Reconstruction, Pose Estimation, Diffusion Models, Gaussian Splatting
 
 **Hobbies:** Basketball, Flag Football, Skiing
 
