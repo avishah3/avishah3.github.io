@@ -1,6 +1,6 @@
 # About Me
 
-I'm a recent graduate from the University of Florida (Spring 2026) with a strong focus in computer graphics. I began teaching myself visual effects at 14 using After Effects and Blender, which eventually led to founding <a href="https://www.effxcts.com" target="_blank">Effxcts LLC</a>— a sports technology company with 50M+ views and clients including ESPN, NHL, Red Bull, the Warriors, and more.
+I'm a recent graduate from the University of Florida (Spring 2026) with a strong focus in computer graphics. I began teaching myself visual effects at 14 using After Effects and Blender, which eventually led to founding <a href="https://www.effxcts.com" target="_blank">Effxcts LLC</a>— a sports technology company with 100M+ views and clients including ESPN, NHL, Red Bull, the Warriors, and more.
 
 In college, my interests expanded to coding, image processing, machine learning, and the broader field of visual computing. In summer of 2024, I interned as a Machine Learning Researcher at the <a href="https://www.chop.edu/" target="_blank">Children's Hospital of Philadelphia</a> (CHOP), publishing research in machine learning and image processing to predict surgical necessity from kidney scans. In summer of 2025, I interned at Skyhook Technologies, building pipelines for semi-automatic avatar generation of NBA players.
 
